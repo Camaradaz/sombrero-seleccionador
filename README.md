@@ -2,7 +2,7 @@
 Sorteo del sombrero seleccionador en español
 
 <p align="center">
-🧹 ¿Quieres saber en qué casa de Hogwarts caerías? ¡Ven y deja que el Sombrero Seleccionador te juzgue! Entra en una de las 4 grandes casas de Hogwarts y gana una insignia de GitHub para mostrar en tu perfil de github :)![FR52A 1](https://user-images.githubusercontent.com/72566092/170415807-a2fdd485-4daa-457d-a57a-f7552d0451f2.png)
+🧹 ¿Quieres saber en qué casa de Hogwarts caerías? ¡Ven y deja que el Sombrero Seleccionador te juzgue! Entra en una de las 4 grandes casas de Hogwarts y gana una insignia de GitHub para mostrar en tu perfil de github :)!
 </p>
 
 ## Badges 🛡️
