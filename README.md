@@ -7,10 +7,10 @@ Sorteo del sombrero seleccionador en español
 
 ## Badges 🛡️
 
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/gryffindor_badge.gif" width="200px"></img>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/slytherin_badge.gif" width="200px"></img>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif" width="200px"></img>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px"></img>
+<img src="https://i.imgur.com/KTKAh5q.gif" width="200px"></img>
+<img src="https://i.imgur.com/tUT9HkX.gif" width="200px"></img>
+<img src="https://i.imgur.com/k1m4uZH.gif" width="200px"></img>
+<img src="https://i.imgur.com/UuimZnK.gif" width="200px"></img>
 
 ## Cómo agregar al perfil de Github ❔
 
