@@ -14,7 +14,7 @@ Sorteo del sombrero seleccionador en español
 
 ## Cómo agregar al perfil de Github ❔
 
-![image](https://user-images.githubusercontent.com/36433104/142668271-5c9568a7-ff01-4b92-aea8-c2da13804200.png)
+
 Una vez que esté clasificado en una casa, haga clic en la insignia para copiarla.
 
 - Vaya a su Github y cree un nuevo repositorio con el mismo nombre que su nombre de perfil (Ej - ```(https://github.com/Camaradaz)```)
